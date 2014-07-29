@@ -4,5 +4,7 @@ public with sharing class Test1 {
 		//this is another change
 		//I'm making this change for branch Story12345!!
 
+		//Making a second change for the new branch Story12345
+
 	}
 }
