@@ -6,5 +6,7 @@ public with sharing class Test1 {
 
 		//Making a second change for the new branch Story12345
 
+		//Making a change on branch Story12345 while the branch is remote
+
 	}
 }
