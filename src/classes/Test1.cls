@@ -13,7 +13,9 @@ public with sharing class Test1 {
 
 		//Making a change on branch Story12345 while the branch is remote
 
-		//Removing some crap and making a change on the master again
+		//Removing some crap and making a change on the master again 
+
+		//This is a change, on the task branch
 
 
 	}
