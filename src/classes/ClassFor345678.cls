@@ -7,5 +7,7 @@ public with sharing class ClassFor345678 {
 		//Making a change for 334455
 
 		//Making a change for 556677
+
+		//Change for Norman Demo 2
 	}
 }
