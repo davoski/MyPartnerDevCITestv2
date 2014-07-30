@@ -5,5 +5,7 @@ public with sharing class TestFOrTask556677 {
 		//second test
 
 		//third test
+
+		//forth
 	}
 }
